@@ -24,7 +24,9 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  ![KakaoTalk_20210927_211205354](https://user-images.githubusercontent.com/80164628/136870378-f7e4243a-d2dd-4a0c-91e7-00019a1c8249.jpg)
+  ![maxresdefault](https://user-images.githubusercontent.com/80164628/136870804-c839b2d9-89a5-4cff-a495-2e61c6aa2575.jpg)
+  
+  
 
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)

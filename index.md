@@ -46,7 +46,7 @@
 
 <br><br>
 
-# [<LastChallenge> 구성 요소]
+# [<Last Challenge> 구성 요소]
 
 - 장애물을 피하며 최고점수를 얻기위한 도전
 

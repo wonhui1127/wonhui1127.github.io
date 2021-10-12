@@ -33,8 +33,7 @@
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
-
+![KakaoTalk_20210927_211205354](https://user-images.githubusercontent.com/80164628/136870378-f7e4243a-d2dd-4a0c-91e7-00019a1c8249.jpg)
 <br><br>
 
 # [컨셉 & 대표이미지 기반 작품묘사]

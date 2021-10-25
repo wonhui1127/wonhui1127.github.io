@@ -99,7 +99,10 @@ PC기반으로 게임을 제작할 예정이며 Unity를 활용하여 개발할 
 # [게임시스템디자인]  
 
 ## 1. 게임 오브젝트 분해 (구성 요소 분석)
-  |연번|오브젝트 이름|오브젝트 이미지|
+  
+<br>
+
+|연번|오브젝트 이름|오브젝트 이미지|
 |------|---|---|
 |1|지상 장애물|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705463-264c7b83-a806-4247-a030-33d86be6963b.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705499-4958fb82-9287-44d9-a2bf-9869f78ead9e.png)|
 |2|공중 장애물|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705546-4904f21b-0259-4d0b-963c-da70b4a8b23d.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705577-dee8984a-c8f3-4573-b659-59f96226b157.png)|

@@ -103,10 +103,10 @@ PC기반으로 게임을 제작할 예정이며 Unity를 활용하여 개발할 
 <br>
 
 |연번|오브젝트 이름|오브젝트 이미지|
-|------|---|---|
-|:1:|:지상 장애물:|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705463-264c7b83-a806-4247-a030-33d86be6963b.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705499-4958fb82-9287-44d9-a2bf-9869f78ead9e.png)|
-|:2:|:공중 장애물:|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705546-4904f21b-0259-4d0b-963c-da70b4a8b23d.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705577-dee8984a-c8f3-4573-b659-59f96226b157.png)|
-|:3:|:아이템:|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705624-72221b7a-a283-42df-838f-7bdabbcb529d.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705643-cf406cd7-27f4-4217-8d18-ea5cdc70ad01.png)|
-|:4:|:주인공:|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705672-b35d8a2b-429e-4adf-ba71-dce62a1a62d9.png)|
-|:5:|:배경 시간:|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705693-d8c5f91d-588c-43b6-9737-59972a82f938.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705711-4d620697-4104-424b-a342-4220d4302da6.png)|
-|:6:|:배경 계절:|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705733-0e7b0175-4348-4dee-9d81-f87ff2127a9c.png)|
+|:------:|:---:|:---:|
+|1|지상 장애물|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705463-264c7b83-a806-4247-a030-33d86be6963b.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705499-4958fb82-9287-44d9-a2bf-9869f78ead9e.png)|
+|2|공중 장애물|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705546-4904f21b-0259-4d0b-963c-da70b4a8b23d.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705577-dee8984a-c8f3-4573-b659-59f96226b157.png)|
+|3|아이템|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705624-72221b7a-a283-42df-838f-7bdabbcb529d.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705643-cf406cd7-27f4-4217-8d18-ea5cdc70ad01.png)|
+|4|주인공|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705672-b35d8a2b-429e-4adf-ba71-dce62a1a62d9.png)|
+|5|배경 시간|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705693-d8c5f91d-588c-43b6-9737-59972a82f938.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705711-4d620697-4104-424b-a342-4220d4302da6.png)|
+|6|배경 계절|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705733-0e7b0175-4348-4dee-9d81-f87ff2127a9c.png)|

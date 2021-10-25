@@ -29,7 +29,7 @@
   
 
 - 동영상
-  [![Video Label](https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s.jpg)](https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s)
+  [![Video Label](https://user-images.githubusercontent.com/80164628/138698490-2d62b723-d40b-45bb-ac12-77191d3ad3b7.PNG)](https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s)
 <br><br>
 
 # [대표 이미지]

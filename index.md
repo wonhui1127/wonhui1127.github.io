@@ -39,7 +39,7 @@
 
 # [컨셉 & 대표이미지 기반 작품묘사]
 
-> ### 대표이미지 기반 : ![KakaoTalk_20210927_211205354](https://user-images.githubusercontent.com/80164628/136870378-f7e4243a-d2dd-4a0c-91e7-00019a1c8249.jpg)
+> ### 대표이미지 기반  ![KakaoTalk_20210927_211205354](https://user-images.githubusercontent.com/80164628/136870378-f7e4243a-d2dd-4a0c-91e7-00019a1c8249.jpg)
 
 > ### 컨셉 기반: 
 

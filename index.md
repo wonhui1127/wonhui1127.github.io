@@ -29,7 +29,7 @@
   
 
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  <iframe width="956" height="538" src="https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 

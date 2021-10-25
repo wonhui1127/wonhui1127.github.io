@@ -286,3 +286,9 @@ LastChallenge의 요구사항
   - 게임의 종료 조건은 캐릭터의 체력이 0이되면 종료한다  
   - 게임이 종료되면 종료 팝업이 뜬다  
   - 종료 팝업에는 점수, 플레이타임, 처음으로 버튼이 있다  
+
+# 키보드 이벤트 흐름도
+  
+<br>
+
+![maxresdefault]https://user-images.githubusercontent.com/80164628/138722145-07593d39-7f11-4935-95b5-e0d26940b0e6.PNG

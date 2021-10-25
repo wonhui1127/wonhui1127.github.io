@@ -110,3 +110,21 @@ PC기반으로 게임을 제작할 예정이며 Unity를 활용하여 개발할 
 |4|주인공|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705672-b35d8a2b-429e-4adf-ba71-dce62a1a62d9.png)|
 |5|배경 시간|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705693-d8c5f91d-588c-43b6-9737-59972a82f938.png) ![maxresdefault](https://user-images.githubusercontent.com/80164628/138705711-4d620697-4104-424b-a342-4220d4302da6.png)|
 |6|배경 계절|![maxresdefault](https://user-images.githubusercontent.com/80164628/138705733-0e7b0175-4348-4dee-9d81-f87ff2127a9c.png)|
+
+<br>
+
+##2. 파라미터(속성) 뽑아 보기
+
+<br>
+
+1) 오브젝트 이름 : 장애물
+
+|속성|영문명칭|설명|
+|:------:|:---:|:---:|
+|단일 장애물|single_obstacle|낱개로 튀어나와있는 장애물로 유저와 충돌할시 유저의 체력을 1감소시킨다|
+|연속 장애물|continuous_obstacle|여러개가 중복되어있는 장애물로 유저와 충돌할시 유저의 체력을 1감소시킨다|
+|공중 장애물1|aerial_obstacle_1|공중에 떠있는 장애물로 주인공이 점프를 뛰면 충돌하지 않으며 충돌시 유저의 체력을 1감소시킨다|
+|공중 장애물2|aerial_obstacle_2|공중에 떠있는 장애물로 주인공이 수그리지 않으면 충돌하며 유저의 체력을 1감소시킨다|
+||||
+||||
+||||

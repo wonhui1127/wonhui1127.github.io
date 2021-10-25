@@ -29,8 +29,7 @@
   
 
 - 동영상
-  <iframe width="956" height="538" src="https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  [![Video Label](https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s.jpg)](https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s)
 <br><br>
 
 # [대표 이미지]

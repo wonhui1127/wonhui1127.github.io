@@ -101,7 +101,7 @@ PC기반으로 게임을 제작할 예정이며 Unity를 활용하여 개발할 
 ## 1. 게임 오브젝트 분해 (구성 요소 분석)
   |연번|오브젝트 이름|오브젝트 이미지|
 |------|---|---|
-|1|지상 장애물||
+|1|지상 장애물|https://github.com/wonhui1127/wonhui1127.github.io/issues/3#issue-1035099005 https://github.com/wonhui1127/wonhui1127.github.io/issues/5#issue-1035149154|
 |2|공중 장애물||
 |3|아이템||
 |4|주인공||

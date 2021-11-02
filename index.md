@@ -328,4 +328,4 @@ LastChallenge의 요구사항
  - 게임종료 버튼을 클릭시 프로그램이 종료된다
  - 게임 시작 버튼과 랭킹보기 버튼의 그래픽을 직접 제작하여 버튼에 이미지를 삽입한다.
 
-  
+  ![maxresdefault](https://user-images.githubusercontent.com/80164628/139766497-cee62cfd-6ab8-41ff-8933-e9ccc7bdaf25.PNG)

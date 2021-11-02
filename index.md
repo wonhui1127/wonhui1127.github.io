@@ -34,11 +34,13 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
+  LastChallenge의 모티브가 된 게임
   ![maxresdefault](https://user-images.githubusercontent.com/80164628/136870804-c839b2d9-89a5-4cff-a495-2e61c6aa2575.jpg)
   
   
 
 - 동영상
+  같은 모티브로 다른사람이 만든 3D게임
   [![Video Label](https://user-images.githubusercontent.com/80164628/138698490-2d62b723-d40b-45bb-ac12-77191d3ad3b7.PNG)](https://www.youtube.com/watch?v=nAMmUDSiUQ8&t=1s)
 <br><br>
 
